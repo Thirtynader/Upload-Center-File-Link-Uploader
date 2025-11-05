@@ -1,6 +1,6 @@
 # 📤 Upload Center - File & Link Uploader
 
-![Upload Center](https://github.com/user-attachments/assets/your-screenshot-url)
+![Upload Center](https://github.com/Thirtynader/Upload-Center-File-Link-Uploader/blob/main/Screenshot-UpCenter.png)
 
 A modern, secure file upload center with dual functionality: direct file upload and remote link download.
 
@@ -80,8 +80,6 @@ Copyright © 2013-2025 1upkhob.ir - Powered by Thirtynader
 ---
 
 # 📤 مرکز آپلود - آپلود فایل و لینک
-
-![مرکز آپلود](https://github.com/user-attachments/assets/your-screenshot-url)
 
 یک مرکز آپلود مدرن و امن با دو قابلیت: آپلود مستقیم فایل و دانلود از لینک.
 
