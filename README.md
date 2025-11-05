@@ -66,7 +66,7 @@ memory_limit = 512M
 
 ## 💰 Price
 
-**$10 USD**
+💲 Price: $10 | Lifetime Access | Free Updates
 
 ## 📧 Contact
 
